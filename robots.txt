@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://rohitmajage.github.io/my-port/sitemap.xml
